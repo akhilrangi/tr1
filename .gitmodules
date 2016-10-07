@@ -1,0 +1,3 @@
+[submodule "trsub1"]
+	path = trsub1\\
+	url = https://github.com/akhilrangi/trsub1.git
